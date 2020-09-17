@@ -266,6 +266,8 @@ html,body{
 
 @media(max-width:500px){
     #background{
+        width:300px;
+        marleft: 10px;
         height: 620px;
         padding:0 20px;
     }
@@ -395,6 +397,4 @@ html,body{
         width: 150px;
         height: 200px;
     }
-
-
 }
