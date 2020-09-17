@@ -275,7 +275,7 @@ html,body{
     #nav{
         position: absolute;
         left: 0;
-        width: 340px;
+        width: 300px;
     }
 
     #nav h3{
@@ -347,14 +347,14 @@ html,body{
     }
 
     #fashion{
-        width: 230px;
+        width: 200px;
         height: 260px;
         top: 7%;
         left: 27%;
     }
 
     #fashion #image{
-        width: 200px;
+        width: 170px;
         height: 260px;
     }
 
